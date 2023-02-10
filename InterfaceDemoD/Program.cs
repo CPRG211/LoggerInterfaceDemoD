@@ -7,6 +7,11 @@ using System.IO;
 
 namespace InterfaceDemoD
 {
+    /// <summary>
+    /// Interface Demo
+    /// </summary>
+    /// <remarks>Author: Nick Hamnett</remarks>
+    /// <remarks>Date: Feb 10, 2023</remarks>
     internal class Program
     {
         static void Main(string[] args)
